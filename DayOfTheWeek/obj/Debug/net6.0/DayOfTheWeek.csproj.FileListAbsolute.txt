@@ -1,0 +1,14 @@
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.exe
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.deps.json
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.runtimeconfig.json
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.dll
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.pdb
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.AssemblyInfo.cs
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.dll
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\obj\Debug\net6.0\refint\DayOfTheWeek.dll
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.pdb
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.genruntimeconfig.cache
+C:\Users\Ukupr\source\repos\Week3ifandswitch\DayOfTheWeek\obj\Debug\net6.0\ref\DayOfTheWeek.dll

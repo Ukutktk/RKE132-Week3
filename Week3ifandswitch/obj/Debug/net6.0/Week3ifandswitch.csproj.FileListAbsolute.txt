@@ -1,0 +1,14 @@
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\bin\Debug\net6.0\Week3ifandswitch.exe
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\bin\Debug\net6.0\Week3ifandswitch.deps.json
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\bin\Debug\net6.0\Week3ifandswitch.runtimeconfig.json
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\bin\Debug\net6.0\Week3ifandswitch.dll
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\bin\Debug\net6.0\Week3ifandswitch.pdb
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\obj\Debug\net6.0\Week3ifandswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\obj\Debug\net6.0\Week3ifandswitch.AssemblyInfoInputs.cache
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\obj\Debug\net6.0\Week3ifandswitch.AssemblyInfo.cs
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\obj\Debug\net6.0\Week3ifandswitch.csproj.CoreCompileInputs.cache
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\obj\Debug\net6.0\Week3ifandswitch.dll
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\obj\Debug\net6.0\refint\Week3ifandswitch.dll
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\obj\Debug\net6.0\Week3ifandswitch.pdb
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\obj\Debug\net6.0\Week3ifandswitch.genruntimeconfig.cache
+C:\Users\Ukupr\source\repos\Week3ifandswitch\Week3ifandswitch\obj\Debug\net6.0\ref\Week3ifandswitch.dll
